@@ -1,4 +1,4 @@
-# VALUE HOUSE
+# ![logo](https://github.com/Amit0617/value_house/raw/main/public/valuehouse.png)VALUE HOUSE
 
 India's first mobile NFT Marketplace.
 
