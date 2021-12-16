@@ -21,4 +21,4 @@ In short, it reduces time and gas fee(a lot) for every transaction. That's it.
 
 ### Why shoud I care?
 Don't care. Get left behind. Get retarded.
-
+Ok. [This](https://twitter.com/cdixon/status/1442201621266534402?s=20) may give atleast a second thought in your mind
